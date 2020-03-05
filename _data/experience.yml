@@ -8,6 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     Worked as part of a cross functional team tasked with improving geospatial data attrubution in a production environment. Leveraged deep system knowledge to increase efficancy in product QA processes.
 
+- layout: left
   company: San Francisco Fire Department 
   link: SFFD
   job_title: Firefighter
