@@ -25,6 +25,7 @@ linkedin_username: steven-delafuente
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Geographic Information Science / Data Analysis professional seeking an opportunity to work with amazing people and become valuable asset to the company. I have experience in ArcGIS, QGIS, RStudio, Python and SQL. I am comfortable working with Linux computer systems and servers. I have an understanding of networking and have deployed database systems and websites in the past. I enjoy developing and manipulating large data sets and I always have a smile on my face. Always an excellent team player.
+ 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
@@ -49,8 +50,8 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
-darkmode: true
+#remote_theme: sproogen/resume-theme
+#darkmode: true
 sass:
   sass_dir: _sass
   style: compressed
