@@ -17,3 +17,15 @@
   # Think Diferent
   description: | # this will include new lines to allow paragraphs
    Worked as part of highly coordinated emergency operations teams. Excelled in technical and/or time sensitive operations. Highly valued for indipendent decision making abilities in high pressure environments. 
+
+- layout: left
+  company: North County Fire Protection District
+  link: NCFPD
+  job_title: Lieutenant
+  dates: August 2006 - January 2015
+  #quote: >
+  # Think Diferent
+  description: | # this will include new lines to allow paragraphs
+   Worked as part of highly coordinated emergency operations teams. Excelled in technical and/or time sensitive operations. Highly valued for in$
+
+
