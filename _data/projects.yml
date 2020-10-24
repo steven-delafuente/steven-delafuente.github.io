@@ -3,17 +3,20 @@
   link: https://steven-delafuente.github.io/sf_response_presentation.html
   description: Quantitative spatial-temporal analysis of Fire Department calls for service occurring within the City and County of San Francisco (2016). Visualized incident loads across neighborhoods, time of day, call type, unit type and response time. All analysis completed utilizing R (programing language).
 
+- layout: top-middle
   name: Emergency Incident Cluster Analysis
   link: https://steven-delafuente.github.io/spatial_cluster_analysis.png
   description: Conducted spatial-temporal cluster analysis of Fire Department calls for service occurring within the City and County of San Francisco (2002-2019). I utilized a dataset consisting of over 5 million records along with block group level census data to investigate the spatial relationship between demographic attributes and emergency incident load. I hope to create a predictive incident model in the future. Python was used for data wrangling, analysis, and charting. ArcMap was utilized for final map products. 
 
+- layout: top-middle
   name: Interactive Mapping 
   link: https://steven-delafuente.github.io/2016_US_Presidential_Election_Results.html
   description: Utilized open source datasets and python packages to create an interactive web map containing county level results of the 2016 Presidential Election.
 
+- layout: top-middle
   name: Land Surface Temperature Analysis
   link: https://steven-delafuente.github.io/land_surface_tempature_analysis.png
-#link: https://steven-delafuente.github.io/land_surface_analysis.html
+  link: https://steven-delafuente.github.io/land_surface_analysis.html
   description: Utilized python to wrangle and visualize land surface data measured within California and Nevada, 1970-2019. All spatial operations were conducted within python. 
 
 
